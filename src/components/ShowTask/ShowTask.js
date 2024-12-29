@@ -12,7 +12,7 @@ export default function ShowTask() {
       <div className="head">
         <div>
         <span className='title'>Todo</span>
-        <span className="count">0</span>
+        <span className="count"> 0 </span>
         </div>
       
       <button className="clearAll">Clear All</button>
